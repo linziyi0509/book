@@ -1,0 +1,124 @@
+#mycss_booklist{
+  width: 90%;
+  
+  margin: 0 auto;
+
+
+}
+
+#show_num{
+  font-size: 21px;
+  margin: 15px auto;
+  text-align: center;
+}
+#lists {
+/*  margin-left: 50px;
+  margin-right:50px;*/
+  margin-bottom: 180px;
+  overflow: hidden;
+  background-color: #fff;
+
+}
+#book_detail{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+/*#list_bookname, #list_xuhao, #list_isbn,#list_publisher,#list_pubyear，#list_restnum,#list_price,#list_category,#list_findcode{
+  float: left;
+}*/
+#footer_p{
+ margin:15px auto 100px 50px;
+  
+}
+#mycss_index_bg{
+  background: url(../images/book1.jpg) no-repeat center center;
+
+  min-height: 180px;
+  position:relative;
+}
+#mycss_index_bg #attend{
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: #333;
+  font-weight: bold;
+  padding-top: 15px;
+  background: url("../img/attend.png") center center no-repeat;
+  background-size: cover;
+  float: right;
+  margin-right: 30px;
+}
+
+#mycss_index_str{
+  padding: 40px 50px;
+  color: #666;
+  font-size: 18px;
+}
+#mycss_index_str span{
+  color: red;
+}
+.page-header{
+  margin: 50px 20px;
+}
+.container-fluid{
+  margin:0px 20px;
+}
+/*yuyue_list里的样式*/
+.list_td{
+  height: 100px;
+  width: 47%;
+  background-color: #fff;
+  margin:10px 5px;
+  border-bottom: 1px solid #007AFF;
+  float: left;
+}
+.button_str{
+  color: #FCB221;
+}
+.bianhao{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.yuyue_but{
+  float: right;
+  /*margin-left: 75px;*/
+}
+
+/*我的荐购中的样式*/
+.bookrec_list_td{
+  width: 100%;
+  background-color: #fff;
+  margin:10px 5px;
+  border-bottom: 1px solid #007AFF;
+  float: left;
+}
+
+/*开始——座位列表两类座位的样式*/
+#item_two a{
+  display: block;
+  height: 65px;
+  float: left;
+  width: 50%;
+  background-color:#fff;
+  text-align: center;
+  font-size:1.7em;
+  padding-top: 20px;
+  color: #9DC6F5;
+}
+#item_two{
+  overflow: hidden;
+}
+
+#item_two a.active{
+  color: #007AFF;
+  border-bottom: 2px solid #007AFF;
+}
+/*结束——座位列表两类座位的样式*/
+
+.nodata{
+  width: 150px;
+  text-align: center;
+  margin:0 auto;
+}
+

@@ -1,0 +1,48 @@
+
+#loading{
+	background-image: url(../images/learn.jpg);
+}
+.nav{position:fixed;
+	background-color:rgba(144,142,142,1.00);
+	font-size:20px;	
+	width:86.5%;
+	height:35px;
+	line-height:35px;
+	z-index:1000;
+	top:0;
+	padding-left:50px;}
+.nav a{
+	padding:20px;
+	color:rgba(251,248,248,1.00);
+	text-decoration:none;
+	}
+.header{ margin-top:35px;
+	width:88.5%;}
+.header img{display:block;
+	margin:0 auto;}
+.containner{ margin-left:50px;
+font-family:"微软雅黑";
+	font-size:16px;
+	line-height:1.5em;
+	}
+h2{margin-top:30px;
+	padding-bottom:18px;
+}
+li img{ vertical-align:text-bottom;}
+#service li{ list-style:none;}
+#contact li{ list-style:none;}
+#notice li{ margin-left:20px;}
+#notice{ margin-bottom:50px;}
+.footer{font-family:"微软雅黑";
+	font-size:14px;
+	background-color:rgba(144,142,142,1.00);
+	color:rgba(249,249,249,1.00);
+	width:86.5%;
+	line-height:1.5em;
+	float:left;
+	height:50px;}
+.footer p{margin-left:50px;
+	margin-bottom:3px;
+	text-align:center;}
+.footer a{ text-decoration:none;
+	color:rgba(248,248,248,1.00);}
